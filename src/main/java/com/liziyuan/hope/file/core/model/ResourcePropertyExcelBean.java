@@ -2,7 +2,7 @@ package com.liziyuan.hope.file.core.model;
 
 import com.alibaba.excel.annotation.ExcelProperty;
 import com.alibaba.excel.annotation.write.style.ColumnWidth;
-import com.liziyuan.hope.file.processor.excel.CustomBooleanConverter;
+import com.liziyuan.hope.file.processor.excel.handler.CustomBooleanConverter;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

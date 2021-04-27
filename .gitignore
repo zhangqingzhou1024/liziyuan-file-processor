@@ -1,0 +1,13 @@
+.project
+*/target/
+**/.settings/
+**/.factorypath
+**/.classpath
+/.metadata/
+*.iml
+.idea
+**/bin/
+**/.apt_generated/
+
+# Project exclude paths
+/target/

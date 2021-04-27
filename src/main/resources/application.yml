@@ -1,0 +1,11 @@
+## 服务基本配置
+server:
+  port: 8080
+  servlet:
+    context-path: /file-processor
+
+
+logging:
+  level:
+    root: INFO
+
